@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Adım sayar</string>
+    <string name="edittext_hint"><font size="15">Hedefinizi girin ve yıldıza basın</font></string>
+</resources>
